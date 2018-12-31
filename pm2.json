@@ -1,0 +1,7 @@
+[
+    {
+		"name": "buttons",
+		"script": "npm run-script start-prod",
+		"log_date_format": "YYYY-MM-DD HH:mm:ss"
+	}
+]
